@@ -1,0 +1,24 @@
+@import './Palette'
+@import './Extend'
+
+#header 
+    background-color: lighten($color2, 40%)
+    h1 
+        margin: 0
+        text-shadow: 2px 2px 2px
+    .container
+        @extend .cont
+        color: $color1
+        display: flex
+        justify-content: space-between
+        line-height: 4em
+        span
+            a
+                display: none
+            &:hover
+                a 
+                    display: block
+                    position: absolute
+                    top: 2em
+    
+       

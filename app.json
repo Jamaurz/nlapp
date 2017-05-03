@@ -1,0 +1,6 @@
+{
+  "name": "NightlifeCoordinationApp",
+  "description": "Nightlife App fcc ptoject",
+  "repository": "https://github.com/Jamaurz/nightlifeapp",
+  "keywords": ["MongoDB", "Mongoose", "full stack", "Express", "Node", "javascript", "ReactJs"] 
+}

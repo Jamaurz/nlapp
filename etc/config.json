@@ -1,0 +1,9 @@
+{
+  "apiPrefix": "https://jamaurznlapp.herokuapp.com",
+  "serverPort": "8080",
+  "db":{
+    "name": "app",
+    "host": "localhost",
+    "port": 27017
+  }
+}
